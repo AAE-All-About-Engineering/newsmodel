@@ -1,5 +1,13 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+mlruns/
+saved_model/
+labeled_data/
+news_json/
+
+# vscode
+.vscode/
+
 *.py[cod]
 *$py.class
 
